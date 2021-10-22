@@ -10,6 +10,6 @@ public class demo {
        // ^ same as above System.out.println(s1.equals(s2));
         String s3 = new String("java");
         System.out.println(s1==s3);
-
+        System.out.println("My new changes");
     }
 }
